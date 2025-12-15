@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+langchain
+langchain-community
+langchain_core
+langchain_openai
+langchain-mongodb 
+pymongo
+python-multipart
+openai
+chromadb
+IPython
+pydub 
